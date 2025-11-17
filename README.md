@@ -1,12 +1,4 @@
-This README is *really* solid already – it genuinely looks like a mini-paper.
-Only a few small fixes / clean-ups:
 
-1. **Remove the outer code fence** (` ````markdown` … ``` `) – in the actual README you want plain markdown starting with `# ts-forecasting-classical-vs-deep`.
-2. In **Project structure**, close the block with **three** backticks, not four.
-3. In **Forecast plot**, you’re still putting the `<img>` tag *inside* a code block, so GitHub will show it as text, not as an image. Put it outside the ``` block (or better, use the local file).
-4. Double-check your username in the `git clone` command (`imaneelhy` vs `imanelhy`). It must exactly match your GitHub account.
-
-Here’s your README with those fixes applied and using the image from your repo instead of the long attachment URL (cleaner and safer):
 
 ````markdown
 # ts-forecasting-classical-vs-deep
